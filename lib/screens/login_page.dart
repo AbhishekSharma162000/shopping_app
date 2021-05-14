@@ -1,10 +1,10 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:shoppin_app/constants.dart';
-import 'package:shoppin_app/screens/register_page.dart';
-import 'package:shoppin_app/widgets/custom_btn.dart';
-import 'package:shoppin_app/widgets/custom_input.dart';
+import 'package:shopping_app/constants.dart';
+import 'package:shopping_app/screens/register_page.dart';
+import 'package:shopping_app/widgets/custom_btn.dart';
+import 'package:shopping_app/widgets/custom_input.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({Key key}) : super(key: key);

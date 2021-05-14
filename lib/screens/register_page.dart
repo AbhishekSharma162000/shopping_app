@@ -1,9 +1,9 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:shoppin_app/screens/login_page.dart';
-import 'package:shoppin_app/widgets/custom_btn.dart';
-import 'package:shoppin_app/widgets/custom_input.dart';
+import 'package:shopping_app/screens/login_page.dart';
+import 'package:shopping_app/widgets/custom_btn.dart';
+import 'package:shopping_app/widgets/custom_input.dart';
 
 import '../constants.dart';
 

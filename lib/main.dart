@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:shoppin_app/screens/landing_page.dart';
+import 'package:shopping_app/screens/landing_page.dart';
 
 void main() {
   runApp(MyApp());
@@ -15,7 +15,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         textTheme: GoogleFonts.poppinsTextTheme(
           Theme.of(context).textTheme,
-        )
+        ),
+        accentColor: Color(0xFFFF1E00)
       ),
       home: LandingPage(),
     );

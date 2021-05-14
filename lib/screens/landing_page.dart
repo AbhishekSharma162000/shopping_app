@@ -1,8 +1,8 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:shoppin_app/constants.dart';
-import 'package:shoppin_app/screens/home_page.dart';
-import 'package:shoppin_app/screens/login_page.dart';
+import 'package:shopping_app/constants.dart';
+import 'package:shopping_app/screens/home_page.dart';
+import 'package:shopping_app/screens/login_page.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 
 class LandingPage extends StatelessWidget {

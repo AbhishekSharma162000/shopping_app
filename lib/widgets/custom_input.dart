@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:shoppin_app/constants.dart';
+import 'package:shopping_app/constants.dart';
 
 class CustomInput extends StatelessWidget {
 
