@@ -81,7 +81,7 @@ class _ProductPageState extends State<ProductPage> {
                    ),
                    Padding(
                      padding: const EdgeInsets.symmetric(vertical: 4.0, horizontal: 24),
-                     child: Text("\$${documentData['price']}",
+                     child: Text("\u{20B9}${documentData['price']}",
                      style: TextStyle(
                        fontSize: 18,
                        fontWeight: FontWeight.w600,

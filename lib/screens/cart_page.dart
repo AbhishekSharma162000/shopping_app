@@ -100,7 +100,7 @@ class _CartPageState extends State<CartPage> {
                                         ),
                                         Padding(
                                           padding: const EdgeInsets.symmetric(vertical: 4.0,),
-                                          child: Text("\$${_productMap['price']}",
+                                          child: Text("\u{20B9}${_productMap['price']}",
                                             style: TextStyle(
                                                 fontSize: 16.0,
                                                 color: Theme.of(context).accentColor,
