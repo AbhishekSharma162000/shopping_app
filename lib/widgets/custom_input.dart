@@ -32,7 +32,7 @@ class CustomInput extends StatelessWidget {
 
           decoration: InputDecoration(
             border: InputBorder.none,
-            hintText: hintText,
+            hintText: hintText ?? "Hint Text..." ,
             contentPadding: EdgeInsets.symmetric(horizontal: 24, vertical: 18)
           ),
           style: Constants.regularDarkText,
