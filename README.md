@@ -1,4 +1,4 @@
-# shoppin_app
+# shopping_app
 
 A new Flutter application.
 
